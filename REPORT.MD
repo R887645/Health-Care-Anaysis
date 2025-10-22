@@ -45,12 +45,15 @@ The primary goal of this analysis is to identify measurable patterns and relatio
 **1. Operational Planning:**
 - Allocate more staff during weekdays to manage peak admission loads efficiently.
 - Prepare resource plans for Q2 and Q3, particularly in September, to handle seasonal surges in patient volume.
+
 **2. Cost Optimization:**
 - Investigate cost disparities across hospitals to identify inefficiencies.
 - Standardize billing structures for similar treatments to ensure cost transparency and fairness.
+
 **3. Chronic Disease Management:**
 - Develop specialized care programs for chronic conditions such as diabetes and hypertension, targeting reduced hospital stays and readmissions.
 - Implement community outreach and preventive health programs for high-risk groups (ages 40–60).
+
 **4. Demographic-Based Health Campaigns:**
 - Use demographic data to design targeted health campaigns, focusing on lifestyle modification and early diagnosis in middle-aged adults.
 
