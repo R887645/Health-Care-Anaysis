@@ -31,13 +31,20 @@ The primary goal of this analysis is to identify measurable patterns and relatio
 ## Medical Conditions and Length of Stay
 - Patients diagnosed with diabetes and hypertension have the longest average hospital stays (16 days), emphasizing the chronic nature of these diseases and the need for better outpatient management.
 
+![My Image Description](https://github.com/R887645/Health-Care-Anaysis/blob/main/Screenshot%202026-05-08%20121116.png?raw=true)
+
 ## Billing Analysis
 - The highest billing is recorded for urgent admissions, followed by elective and emergency categories.
 - Billing amounts vary significantly across hospitals and conditions, suggesting inconsistencies in treatment costs or billing practices.
 
+![My Image Description](https://github.com/R887645/Health-Care-Anaysis/blob/main/Screenshot%202026-05-08%20121132.png?raw=true)
+
+
 ## Demographic Distribution
 - **Age:** Most patients fall between the 40–60 years age group — the demographic most affected by chronic conditions like hypertension and diabetes.
 - **Gender:** Patient distribution shows near parity between males and females, indicating balanced healthcare utilization across genders.
+
+![My Image](https://github.com/R887645/Health-Care-Anaysis/blob/main/Screenshot%202026-05-08%20121103.png?raw=true)
 
 **[View My Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGJhMzk4ZGMtZGRkMy00NzgzLThiNGItZjE2NzQ2ZTE3Y2FlIiwidCI6ImZjY2Y0MmRmLTE2ZDktNGU4Ny1hNmUwLWU0OTYyMjAxN2Y3NCJ9)**
 
